@@ -1,0 +1,3 @@
+# Overture Maps data outputs
+*.geojson
+*.geojson.state
