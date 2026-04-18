@@ -1,0 +1,1750 @@
+[
+  {
+    "id": "place_0",
+    "name": "MacCaul Turner Design",
+    "address": "14 Museum Way",
+    "coordinates": [
+      -122.4410312,
+      37.76498124
+    ],
+    "validation": {
+      "status": "uncertain",
+      "confidence": 0.52,
+      "issues": [
+        "Insufficient data found online"
+      ],
+      "citations": []
+    }
+  },
+  {
+    "id": "place_1",
+    "name": "Live Fit Gym",
+    "address": "957 Cole St",
+    "coordinates": [
+      -122.44988548,
+      37.76502
+    ],
+    "validation": {
+      "status": "open",
+      "confidence": 0.88,
+      "issues": [],
+      "citations": [
+        "https://mock-source.com/verified"
+      ]
+    }
+  },
+  {
+    "id": "place_2",
+    "name": "Luke's Local",
+    "address": "960 Cole St",
+    "coordinates": [
+      -122.44973611,
+      37.76501708
+    ],
+    "validation": {
+      "status": "uncertain",
+      "confidence": 0.46,
+      "issues": [
+        "Insufficient data found online"
+      ],
+      "citations": []
+    }
+  },
+  {
+    "id": "place_3",
+    "name": "U.C. Market",
+    "address": "1240-1248 3rd Ave",
+    "coordinates": [
+      -122.46019184745535,
+      37.76501218872472
+    ],
+    "validation": {
+      "status": "open",
+      "confidence": 0.84,
+      "issues": [],
+      "citations": [
+        "https://mock-source.com/verified"
+      ]
+    }
+  },
+  {
+    "id": "place_4",
+    "name": "Tadaima",
+    "address": "1248 9th Ave",
+    "coordinates": [
+      -122.46616299,
+      37.76502987
+    ],
+    "validation": {
+      "status": "open",
+      "confidence": 0.77,
+      "issues": [],
+      "citations": [
+        "https://mock-source.com/verified"
+      ]
+    }
+  },
+  {
+    "id": "place_5",
+    "name": "The Sidewalk Flowers",
+    "address": "90 Parnassus Ave",
+    "coordinates": [
+      -122.44938132,
+      37.76502927
+    ],
+    "validation": {
+      "status": "open",
+      "confidence": 0.84,
+      "issues": [],
+      "citations": [
+        "https://mock-source.com/verified"
+      ]
+    }
+  },
+  {
+    "id": "place_6",
+    "name": "Ideal Builders",
+    "address": "112 Parnassus Ave Apt 2",
+    "coordinates": [
+      -122.450328,
+      37.7650662
+    ],
+    "validation": {
+      "status": "closed",
+      "confidence": 0.76,
+      "issues": [
+        "Business appears permanently closed"
+      ],
+      "citations": [
+        "https://mock-source.com/closure-notice"
+      ]
+    }
+  },
+  {
+    "id": "place_7",
+    "name": "Kevel Home Performance",
+    "address": "120 Parnassus Ave Unit 9",
+    "coordinates": [
+      -122.450462,
+      37.765072
+    ],
+    "validation": {
+      "status": "closed",
+      "confidence": 0.74,
+      "issues": [
+        "Business appears permanently closed"
+      ],
+      "citations": [
+        "https://mock-source.com/closure-notice"
+      ]
+    }
+  },
+  {
+    "id": "place_8",
+    "name": "Deforest Stairs",
+    "address": "",
+    "coordinates": [
+      -122.436405,
+      37.765071
+    ],
+    "validation": {
+      "status": "uncertain",
+      "confidence": 0.54,
+      "issues": [
+        "Insufficient data found online"
+      ],
+      "citations": []
+    }
+  },
+  {
+    "id": "place_9",
+    "name": "Cureus Journal of Medical Science",
+    "address": "1227 14th Ave",
+    "coordinates": [
+      -122.4721,
+      37.76509
+    ],
+    "validation": {
+      "status": "open",
+      "confidence": 0.94,
+      "issues": [],
+      "citations": [
+        "https://mock-source.com/verified"
+      ]
+    }
+  },
+  {
+    "id": "place_10",
+    "name": "Sunset Gym",
+    "address": "1247 9th Ave",
+    "coordinates": [
+      -122.46648001,
+      37.76508665
+    ],
+    "validation": {
+      "status": "open",
+      "confidence": 0.91,
+      "issues": [],
+      "citations": [
+        "https://mock-source.com/verified"
+      ]
+    }
+  },
+  {
+    "id": "place_11",
+    "name": "Park Smile",
+    "address": "1244 9th Ave",
+    "coordinates": [
+      -122.46626909,
+      37.76508017
+    ],
+    "validation": {
+      "status": "uncertain",
+      "confidence": 0.48,
+      "issues": [
+        "Insufficient data found online"
+      ],
+      "citations": []
+    }
+  },
+  {
+    "id": "place_12",
+    "name": "South Lake",
+    "address": "",
+    "coordinates": [
+      -122.49983628,
+      37.76508105
+    ],
+    "validation": {
+      "status": "open",
+      "confidence": 0.82,
+      "issues": [],
+      "citations": [
+        "https://mock-source.com/verified"
+      ]
+    }
+  },
+  {
+    "id": "place_13",
+    "name": "Golden Gate Trail Run",
+    "address": "",
+    "coordinates": [
+      -122.506767,
+      37.765152
+    ],
+    "validation": {
+      "status": "uncertain",
+      "confidence": 0.56,
+      "issues": [
+        "Insufficient data found online"
+      ],
+      "citations": []
+    }
+  },
+  {
+    "id": "place_14",
+    "name": "Orange Caterpillar",
+    "address": "1847 Lincoln Way",
+    "coordinates": [
+      -122.47804187375164,
+      37.76517604973145
+    ],
+    "validation": {
+      "status": "open",
+      "confidence": 0.81,
+      "issues": [],
+      "citations": [
+        "https://mock-source.com/verified"
+      ]
+    }
+  },
+  {
+    "id": "place_15",
+    "name": "Adam's Grub Truck",
+    "address": "1849 Lincoln Way",
+    "coordinates": [
+      -122.47804187375164,
+      37.76517604973145
+    ],
+    "validation": {
+      "status": "open",
+      "confidence": 0.82,
+      "issues": [],
+      "citations": [
+        "https://mock-source.com/verified"
+      ]
+    }
+  },
+  {
+    "id": "place_16",
+    "name": "The Church In San Francisco",
+    "address": "1201 19th Ave",
+    "coordinates": [
+      -122.47754071623218,
+      37.765181927902866
+    ],
+    "validation": {
+      "status": "uncertain",
+      "confidence": 0.41,
+      "issues": [
+        "Insufficient data found online"
+      ],
+      "citations": []
+    }
+  },
+  {
+    "id": "place_17",
+    "name": "Sunset Stationers",
+    "address": "1248 9th Ave",
+    "coordinates": [
+      -122.46614853146346,
+      37.76517550955728
+    ],
+    "validation": {
+      "status": "open",
+      "confidence": 0.81,
+      "issues": [],
+      "citations": [
+        "https://mock-source.com/verified"
+      ]
+    }
+  },
+  {
+    "id": "place_18",
+    "name": "UPS Access Point location",
+    "address": "1236 9th Ave",
+    "coordinates": [
+      -122.466337,
+      37.765202
+    ],
+    "validation": {
+      "status": "uncertain",
+      "confidence": 0.49,
+      "issues": [
+        "Insufficient data found online"
+      ],
+      "citations": []
+    }
+  },
+  {
+    "id": "place_19",
+    "name": "Park Parlor HairStyling",
+    "address": "1239 9th Ave",
+    "coordinates": [
+      -122.46647382,
+      37.76519808
+    ],
+    "validation": {
+      "status": "uncertain",
+      "confidence": 0.51,
+      "issues": [
+        "Insufficient data found online"
+      ],
+      "citations": []
+    }
+  },
+  {
+    "id": "place_20",
+    "name": "MCLEYE",
+    "address": "1546 Southside Lane",
+    "coordinates": [
+      -122.47761502861978,
+      37.76520167942289
+    ],
+    "validation": {
+      "status": "open",
+      "confidence": 0.93,
+      "issues": [],
+      "citations": [
+        "https://mock-source.com/verified"
+      ]
+    }
+  },
+  {
+    "id": "place_21",
+    "name": "Loop Neighborhood Market",
+    "address": "1200 19th Ave",
+    "coordinates": [
+      -122.4769229,
+      37.76521386
+    ],
+    "validation": {
+      "status": "open",
+      "confidence": 0.85,
+      "issues": [],
+      "citations": [
+        "https://mock-source.com/verified"
+      ]
+    }
+  },
+  {
+    "id": "place_22",
+    "name": "Chug Pub",
+    "address": "1849 Lincoln Way",
+    "coordinates": [
+      -122.47825819,
+      37.76522549
+    ],
+    "validation": {
+      "status": "open",
+      "confidence": 0.8,
+      "issues": [],
+      "citations": [
+        "https://mock-source.com/verified"
+      ]
+    }
+  },
+  {
+    "id": "place_23",
+    "name": "Cach\u00e9",
+    "address": "1235 9th Ave",
+    "coordinates": [
+      -122.46678603,
+      37.76525108
+    ],
+    "validation": {
+      "status": "closed",
+      "confidence": 0.77,
+      "issues": [
+        "Business appears permanently closed"
+      ],
+      "citations": [
+        "https://mock-source.com/closure-notice"
+      ]
+    }
+  },
+  {
+    "id": "place_24",
+    "name": "KIDS' World Online Store - Kids clothes, accessories, toys",
+    "address": "1234 9th Ave",
+    "coordinates": [
+      -122.46612,
+      37.76525
+    ],
+    "validation": {
+      "status": "moved",
+      "confidence": 0.72,
+      "issues": [
+        "Business may have relocated"
+      ],
+      "citations": [
+        "https://mock-source.com/new-location"
+      ]
+    }
+  },
+  {
+    "id": "place_25",
+    "name": "Misdirections Magic Shop",
+    "address": "1236 9th Ave",
+    "coordinates": [
+      -122.46629842,
+      37.76523667
+    ],
+    "validation": {
+      "status": "open",
+      "confidence": 0.84,
+      "issues": [],
+      "citations": [
+        "https://mock-source.com/verified"
+      ]
+    }
+  },
+  {
+    "id": "place_26",
+    "name": "Gordo Taqueria",
+    "address": "1239 9th Ave",
+    "coordinates": [
+      -122.46650161,
+      37.7652175
+    ],
+    "validation": {
+      "status": "closed",
+      "confidence": 0.92,
+      "issues": [
+        "Business appears permanently closed"
+      ],
+      "citations": [
+        "https://mock-source.com/closure-notice"
+      ]
+    }
+  },
+  {
+    "id": "place_27",
+    "name": "Zazie",
+    "address": "941 Cole St",
+    "coordinates": [
+      -122.44998181,
+      37.76524216
+    ],
+    "validation": {
+      "status": "closed",
+      "confidence": 0.7,
+      "issues": [
+        "Business appears permanently closed"
+      ],
+      "citations": [
+        "https://mock-source.com/closure-notice"
+      ]
+    }
+  },
+  {
+    "id": "place_28",
+    "name": "Jeanne Rose Aromatherapy",
+    "address": "219 Carl St",
+    "coordinates": [
+      -122.453109,
+      37.765196
+    ],
+    "validation": {
+      "status": "moved",
+      "confidence": 0.66,
+      "issues": [
+        "Business may have relocated"
+      ],
+      "citations": [
+        "https://mock-source.com/new-location"
+      ]
+    }
+  },
+  {
+    "id": "place_29",
+    "name": "Yo Tambien Cantina",
+    "address": "205 Hugo St",
+    "coordinates": [
+      -122.46030231,
+      37.76518726
+    ],
+    "validation": {
+      "status": "uncertain",
+      "confidence": 0.36,
+      "issues": [
+        "Insufficient data found online"
+      ],
+      "citations": []
+    }
+  },
+  {
+    "id": "place_30",
+    "name": "Kamekyo",
+    "address": "943 Cole St",
+    "coordinates": [
+      -122.45007392,
+      37.76518326
+    ],
+    "validation": {
+      "status": "moved",
+      "confidence": 0.81,
+      "issues": [
+        "Business may have relocated"
+      ],
+      "citations": [
+        "https://mock-source.com/new-location"
+      ]
+    }
+  },
+  {
+    "id": "place_31",
+    "name": "UPS Access Point location",
+    "address": "956 Cole St",
+    "coordinates": [
+      -122.44953,
+      37.76518
+    ],
+    "validation": {
+      "status": "closed",
+      "confidence": 0.71,
+      "issues": [
+        "Business appears permanently closed"
+      ],
+      "citations": [
+        "https://mock-source.com/closure-notice"
+      ]
+    }
+  },
+  {
+    "id": "place_32",
+    "name": "KeyExpress Locksmiths",
+    "address": "956 Cole St",
+    "coordinates": [
+      -122.44969826,
+      37.7651784
+    ],
+    "validation": {
+      "status": "open",
+      "confidence": 0.75,
+      "issues": [],
+      "citations": [
+        "https://mock-source.com/verified"
+      ]
+    }
+  },
+  {
+    "id": "place_33",
+    "name": "Radical Storage",
+    "address": "1251 3rd Ave",
+    "coordinates": [
+      -122.4601737,
+      37.765145
+    ],
+    "validation": {
+      "status": "open",
+      "confidence": 0.83,
+      "issues": [],
+      "citations": [
+        "https://mock-source.com/verified"
+      ]
+    }
+  },
+  {
+    "id": "place_34",
+    "name": "Bambino's Ristorante",
+    "address": "945 Cole St",
+    "coordinates": [
+      -122.44994323,
+      37.76515977
+    ],
+    "validation": {
+      "status": "open",
+      "confidence": 0.84,
+      "issues": [],
+      "citations": [
+        "https://mock-source.com/verified"
+      ]
+    }
+  },
+  {
+    "id": "place_35",
+    "name": "Resharp",
+    "address": "956 Cole St",
+    "coordinates": [
+      -122.4495989,
+      37.7651607
+    ],
+    "validation": {
+      "status": "moved",
+      "confidence": 0.8,
+      "issues": [
+        "Business may have relocated"
+      ],
+      "citations": [
+        "https://mock-source.com/new-location"
+      ]
+    }
+  },
+  {
+    "id": "place_36",
+    "name": "Cole Valley Fitness",
+    "address": "957 Cole St",
+    "coordinates": [
+      -122.45009780945455,
+      37.76516583278802
+    ],
+    "validation": {
+      "status": "uncertain",
+      "confidence": 0.48,
+      "issues": [
+        "Insufficient data found online"
+      ],
+      "citations": []
+    }
+  },
+  {
+    "id": "place_37",
+    "name": "Blue Rhino Propane Exchange",
+    "address": "956 Cole St",
+    "coordinates": [
+      -122.4496983,
+      37.76517
+    ],
+    "validation": {
+      "status": "open",
+      "confidence": 0.82,
+      "issues": [],
+      "citations": [
+        "https://mock-source.com/verified"
+      ]
+    }
+  },
+  {
+    "id": "place_38",
+    "name": "The Cutlery",
+    "address": "1239A 9th Ave",
+    "coordinates": [
+      -122.46664972669407,
+      37.765169679423515
+    ],
+    "validation": {
+      "status": "open",
+      "confidence": 0.81,
+      "issues": [],
+      "citations": [
+        "https://mock-source.com/verified"
+      ]
+    }
+  },
+  {
+    "id": "place_39",
+    "name": "Fiorella Sunset",
+    "address": "1240 9th Ave",
+    "coordinates": [
+      -122.46629379,
+      37.76516979
+    ],
+    "validation": {
+      "status": "open",
+      "confidence": 0.78,
+      "issues": [],
+      "citations": [
+        "https://mock-source.com/verified"
+      ]
+    }
+  },
+  {
+    "id": "place_40",
+    "name": "Park Chow",
+    "address": "1240 9th Ave",
+    "coordinates": [
+      -122.46631451683825,
+      37.76516324798836
+    ],
+    "validation": {
+      "status": "closed",
+      "confidence": 0.88,
+      "issues": [
+        "Business appears permanently closed"
+      ],
+      "citations": [
+        "https://mock-source.com/closure-notice"
+      ]
+    }
+  },
+  {
+    "id": "place_41",
+    "name": "Marnee Thai Restaurant",
+    "address": "1243 9th Ave",
+    "coordinates": [
+      -122.466525,
+      37.76514086
+    ],
+    "validation": {
+      "status": "closed",
+      "confidence": 0.81,
+      "issues": [
+        "Business appears permanently closed"
+      ],
+      "citations": [
+        "https://mock-source.com/closure-notice"
+      ]
+    }
+  },
+  {
+    "id": "place_42",
+    "name": "Shell",
+    "address": "1200 19th Ave",
+    "coordinates": [
+      -122.47707197,
+      37.7651387
+    ],
+    "validation": {
+      "status": "closed",
+      "confidence": 0.83,
+      "issues": [
+        "Business appears permanently closed"
+      ],
+      "citations": [
+        "https://mock-source.com/closure-notice"
+      ]
+    }
+  },
+  {
+    "id": "place_43",
+    "name": "Amazon Locker - Seymore",
+    "address": "Loop Neighborhood, 1200 19th Ave",
+    "coordinates": [
+      -122.4768348,
+      37.7651326
+    ],
+    "validation": {
+      "status": "uncertain",
+      "confidence": 0.6,
+      "issues": [
+        "Insufficient data found online"
+      ],
+      "citations": []
+    }
+  },
+  {
+    "id": "place_44",
+    "name": "Remote Jobs",
+    "address": "2798 Lincoln Way",
+    "coordinates": [
+      -122.48779,
+      37.76513
+    ],
+    "validation": {
+      "status": "closed",
+      "confidence": 0.83,
+      "issues": [
+        "Business appears permanently closed"
+      ],
+      "citations": [
+        "https://mock-source.com/closure-notice"
+      ]
+    }
+  },
+  {
+    "id": "place_45",
+    "name": "Golden Gate Auto Smog and Service",
+    "address": "1200 19th Ave",
+    "coordinates": [
+      -122.4770356795699,
+      37.76512276712028
+    ],
+    "validation": {
+      "status": "closed",
+      "confidence": 0.89,
+      "issues": [
+        "Business appears permanently closed"
+      ],
+      "citations": [
+        "https://mock-source.com/closure-notice"
+      ]
+    }
+  },
+  {
+    "id": "place_46",
+    "name": "Sonrise Christian Fellowship",
+    "address": "1248 Arguello Blvd",
+    "coordinates": [
+      -122.457525,
+      37.7651
+    ],
+    "validation": {
+      "status": "open",
+      "confidence": 0.82,
+      "issues": [],
+      "citations": [
+        "https://mock-source.com/verified"
+      ]
+    }
+  },
+  {
+    "id": "place_47",
+    "name": "Cole Cleaners",
+    "address": "947 Cole St",
+    "coordinates": [
+      -122.44992888,
+      37.76511137
+    ],
+    "validation": {
+      "status": "open",
+      "confidence": 0.81,
+      "issues": [],
+      "citations": [
+        "https://mock-source.com/verified"
+      ]
+    }
+  },
+  {
+    "id": "place_48",
+    "name": "Marachi Jason Law Offices",
+    "address": "211 Hugo St",
+    "coordinates": [
+      -122.460342,
+      37.765131
+    ],
+    "validation": {
+      "status": "open",
+      "confidence": 0.75,
+      "issues": [],
+      "citations": [
+        "https://mock-source.com/verified"
+      ]
+    }
+  },
+  {
+    "id": "place_49",
+    "name": "Body Philosophy Club",
+    "address": "211 Hugo St",
+    "coordinates": [
+      -122.46024,
+      37.765133
+    ],
+    "validation": {
+      "status": "open",
+      "confidence": 0.92,
+      "issues": [],
+      "citations": [
+        "https://mock-source.com/verified"
+      ]
+    }
+  },
+  {
+    "id": "place_50",
+    "name": "John Greenwood, Bowmaker",
+    "address": "301 Carl St",
+    "coordinates": [
+      -122.45459055,
+      37.7651312
+    ],
+    "validation": {
+      "status": "open",
+      "confidence": 0.8,
+      "issues": [],
+      "citations": [
+        "https://mock-source.com/verified"
+      ]
+    }
+  },
+  {
+    "id": "place_51",
+    "name": "Lim Wallis W",
+    "address": "1001 Shrader St",
+    "coordinates": [
+      -122.45152828779361,
+      37.76512148747816
+    ],
+    "validation": {
+      "status": "uncertain",
+      "confidence": 0.46,
+      "issues": [
+        "Insufficient data found online"
+      ],
+      "citations": []
+    }
+  },
+  {
+    "id": "place_52",
+    "name": "Cole Hardware",
+    "address": "956 Cole St",
+    "coordinates": [
+      -122.44970345,
+      37.76512394
+    ],
+    "validation": {
+      "status": "open",
+      "confidence": 0.81,
+      "issues": [],
+      "citations": [
+        "https://mock-source.com/verified"
+      ]
+    }
+  },
+  {
+    "id": "place_53",
+    "name": "Top of the Hill - Corona Heights",
+    "address": "",
+    "coordinates": [
+      -122.43972500774682,
+      37.76513492877307
+    ],
+    "validation": {
+      "status": "uncertain",
+      "confidence": 0.33,
+      "issues": [
+        "Insufficient data found online"
+      ],
+      "citations": []
+    }
+  },
+  {
+    "id": "place_54",
+    "name": "Cedars of Marin",
+    "address": "115 Upper Ter",
+    "coordinates": [
+      -122.443574,
+      37.76511
+    ],
+    "validation": {
+      "status": "closed",
+      "confidence": 0.85,
+      "issues": [
+        "Business appears permanently closed"
+      ],
+      "citations": [
+        "https://mock-source.com/closure-notice"
+      ]
+    }
+  },
+  {
+    "id": "place_55",
+    "name": "BAIT - San Francisco",
+    "address": "3162 16th St",
+    "coordinates": [
+      -122.42343674484007,
+      37.76511590947848
+    ],
+    "validation": {
+      "status": "open",
+      "confidence": 0.89,
+      "issues": [],
+      "citations": [
+        "https://mock-source.com/verified"
+      ]
+    }
+  },
+  {
+    "id": "place_56",
+    "name": "Rikki\u2019s",
+    "address": "2223 Market St",
+    "coordinates": [
+      -122.43137262,
+      37.76512229
+    ],
+    "validation": {
+      "status": "open",
+      "confidence": 0.8,
+      "issues": [],
+      "citations": [
+        "https://mock-source.com/verified"
+      ]
+    }
+  },
+  {
+    "id": "place_57",
+    "name": "SuiGENERIS",
+    "address": "2265 Market St",
+    "coordinates": [
+      -122.43139235571802,
+      37.76512828810411
+    ],
+    "validation": {
+      "status": "open",
+      "confidence": 0.94,
+      "issues": [],
+      "citations": [
+        "https://mock-source.com/verified"
+      ]
+    }
+  },
+  {
+    "id": "place_58",
+    "name": "Better Homes and Gardens Real Estate",
+    "address": "2241 Market St",
+    "coordinates": [
+      -122.431834,
+      37.765123
+    ],
+    "validation": {
+      "status": "open",
+      "confidence": 0.85,
+      "issues": [],
+      "citations": [
+        "https://mock-source.com/verified"
+      ]
+    }
+  },
+  {
+    "id": "place_59",
+    "name": "Farming Hope",
+    "address": "3092 16th St",
+    "coordinates": [
+      -122.42157407524009,
+      37.7651275835658
+    ],
+    "validation": {
+      "status": "open",
+      "confidence": 0.76,
+      "issues": [],
+      "citations": [
+        "https://mock-source.com/verified"
+      ]
+    }
+  },
+  {
+    "id": "place_60",
+    "name": "Sivertsen Pickle Company",
+    "address": "3108 16th St",
+    "coordinates": [
+      -122.42222,
+      37.76514
+    ],
+    "validation": {
+      "status": "closed",
+      "confidence": 0.91,
+      "issues": [
+        "Business appears permanently closed"
+      ],
+      "citations": [
+        "https://mock-source.com/closure-notice"
+      ]
+    }
+  },
+  {
+    "id": "place_61",
+    "name": "Maruya",
+    "address": "2931 16th St",
+    "coordinates": [
+      -122.41830551176308,
+      37.76513773332411
+    ],
+    "validation": {
+      "status": "open",
+      "confidence": 0.83,
+      "issues": [],
+      "citations": [
+        "https://mock-source.com/verified"
+      ]
+    }
+  },
+  {
+    "id": "place_62",
+    "name": "Miller Company Landscape Architects",
+    "address": "2973 16th St",
+    "coordinates": [
+      -122.41871796,
+      37.76512088
+    ],
+    "validation": {
+      "status": "open",
+      "confidence": 0.77,
+      "issues": [],
+      "citations": [
+        "https://mock-source.com/verified"
+      ]
+    }
+  },
+  {
+    "id": "place_63",
+    "name": "Vvn0001",
+    "address": "3126 16th St",
+    "coordinates": [
+      -122.42261,
+      37.76512
+    ],
+    "validation": {
+      "status": "open",
+      "confidence": 0.87,
+      "issues": [],
+      "citations": [
+        "https://mock-source.com/verified"
+      ]
+    }
+  },
+  {
+    "id": "place_64",
+    "name": "Juicy Loosie",
+    "address": "3122 16th St",
+    "coordinates": [
+      -122.42257548,
+      37.76511512
+    ],
+    "validation": {
+      "status": "open",
+      "confidence": 0.89,
+      "issues": [],
+      "citations": [
+        "https://mock-source.com/verified"
+      ]
+    }
+  },
+  {
+    "id": "place_65",
+    "name": "Midpoint Food & Drink",
+    "address": "3092 16th St",
+    "coordinates": [
+      -122.421717,
+      37.765117
+    ],
+    "validation": {
+      "status": "open",
+      "confidence": 0.84,
+      "issues": [],
+      "citations": [
+        "https://mock-source.com/verified"
+      ]
+    }
+  },
+  {
+    "id": "place_66",
+    "name": "Altamont Hotel",
+    "address": "3048 16th St",
+    "coordinates": [
+      -122.4207277,
+      37.76510843
+    ],
+    "validation": {
+      "status": "open",
+      "confidence": 0.92,
+      "issues": [],
+      "citations": [
+        "https://mock-source.com/verified"
+      ]
+    }
+  },
+  {
+    "id": "place_67",
+    "name": "CloudAmp LLC",
+    "address": "3012 16th St",
+    "coordinates": [
+      -122.42009101,
+      37.7651032
+    ],
+    "validation": {
+      "status": "closed",
+      "confidence": 0.77,
+      "issues": [
+        "Business appears permanently closed"
+      ],
+      "citations": [
+        "https://mock-source.com/closure-notice"
+      ]
+    }
+  },
+  {
+    "id": "place_68",
+    "name": "CA Poppy Flower Shop",
+    "address": "2915 16th St",
+    "coordinates": [
+      -122.417901679873,
+      37.7651086449623
+    ],
+    "validation": {
+      "status": "uncertain",
+      "confidence": 0.5,
+      "issues": [
+        "Insufficient data found online"
+      ],
+      "citations": []
+    }
+  },
+  {
+    "id": "place_69",
+    "name": "Buffalo\u725b\u982d\u724c\u934b\u5177\u3010\u7f8e\u570b\u3011",
+    "address": "390 Kansas St",
+    "coordinates": [
+      -122.40388,
+      37.7651
+    ],
+    "validation": {
+      "status": "open",
+      "confidence": 0.84,
+      "issues": [],
+      "citations": [
+        "https://mock-source.com/verified"
+      ]
+    }
+  },
+  {
+    "id": "place_70",
+    "name": "Pacific Kitchen Life",
+    "address": "390 Kansas St",
+    "coordinates": [
+      -122.4036682,
+      37.7651003
+    ],
+    "validation": {
+      "status": "open",
+      "confidence": 0.82,
+      "issues": [],
+      "citations": [
+        "https://mock-source.com/verified"
+      ]
+    }
+  },
+  {
+    "id": "place_71",
+    "name": "Hart Wright Architects",
+    "address": "340 Potrero Ave",
+    "coordinates": [
+      -122.40772874,
+      37.76511027
+    ],
+    "validation": {
+      "status": "open",
+      "confidence": 0.88,
+      "issues": [],
+      "citations": [
+        "https://mock-source.com/verified"
+      ]
+    }
+  },
+  {
+    "id": "place_72",
+    "name": "Zynga Incorporation",
+    "address": "365 Vermont St",
+    "coordinates": [
+      -122.404157,
+      37.765118
+    ],
+    "validation": {
+      "status": "uncertain",
+      "confidence": 0.59,
+      "issues": [
+        "Insufficient data found online"
+      ],
+      "citations": []
+    }
+  },
+  {
+    "id": "place_73",
+    "name": "Robert C. Vazquez, M.D.",
+    "address": "350 Rhode Island St #200",
+    "coordinates": [
+      -122.4031093,
+      37.7651175
+    ],
+    "validation": {
+      "status": "open",
+      "confidence": 0.85,
+      "issues": [],
+      "citations": [
+        "https://mock-source.com/verified"
+      ]
+    }
+  },
+  {
+    "id": "place_74",
+    "name": "Nancy T Chen, M.D.",
+    "address": "350 Rhode Island St #200",
+    "coordinates": [
+      -122.4031093,
+      37.7651175
+    ],
+    "validation": {
+      "status": "uncertain",
+      "confidence": 0.34,
+      "issues": [
+        "Insufficient data found online"
+      ],
+      "citations": []
+    }
+  },
+  {
+    "id": "place_75",
+    "name": "David M Tejeda, M.D.",
+    "address": "350 Rhode Island St #200",
+    "coordinates": [
+      -122.4031093,
+      37.7651175
+    ],
+    "validation": {
+      "status": "open",
+      "confidence": 0.8,
+      "issues": [],
+      "citations": [
+        "https://mock-source.com/verified"
+      ]
+    }
+  },
+  {
+    "id": "place_76",
+    "name": "Chieh-Yu Chen, M.D.",
+    "address": "350 Rhode Island St #200",
+    "coordinates": [
+      -122.4031093,
+      37.7651175
+    ],
+    "validation": {
+      "status": "open",
+      "confidence": 0.77,
+      "issues": [],
+      "citations": [
+        "https://mock-source.com/verified"
+      ]
+    }
+  },
+  {
+    "id": "place_77",
+    "name": "Town Realty",
+    "address": "350 Rhode Island St",
+    "coordinates": [
+      -122.403074,
+      37.765118
+    ],
+    "validation": {
+      "status": "closed",
+      "confidence": 0.82,
+      "issues": [
+        "Business appears permanently closed"
+      ],
+      "citations": [
+        "https://mock-source.com/closure-notice"
+      ]
+    }
+  },
+  {
+    "id": "place_78",
+    "name": "Thee Parkside",
+    "address": "1600 17th St",
+    "coordinates": [
+      -122.39990635,
+      37.76511798
+    ],
+    "validation": {
+      "status": "open",
+      "confidence": 0.92,
+      "issues": [],
+      "citations": [
+        "https://mock-source.com/verified"
+      ]
+    }
+  },
+  {
+    "id": "place_79",
+    "name": "San Francisco Small Business Network",
+    "address": "350 Rhode Island St",
+    "coordinates": [
+      -122.403104,
+      37.7651
+    ],
+    "validation": {
+      "status": "open",
+      "confidence": 0.92,
+      "issues": [],
+      "citations": [
+        "https://mock-source.com/verified"
+      ]
+    }
+  },
+  {
+    "id": "place_80",
+    "name": "Ronald McDonald House",
+    "address": "1975 4th St",
+    "coordinates": [
+      -122.389982,
+      37.76511
+    ],
+    "validation": {
+      "status": "open",
+      "confidence": 0.82,
+      "issues": [],
+      "citations": [
+        "https://mock-source.com/verified"
+      ]
+    }
+  },
+  {
+    "id": "place_81",
+    "name": "Dr Emily Frank, MD",
+    "address": "1975 4th St Fl 1",
+    "coordinates": [
+      -122.389751,
+      37.765137
+    ],
+    "validation": {
+      "status": "closed",
+      "confidence": 0.71,
+      "issues": [
+        "Business appears permanently closed"
+      ],
+      "citations": [
+        "https://mock-source.com/closure-notice"
+      ]
+    }
+  },
+  {
+    "id": "place_82",
+    "name": "Friends Of The San Francisco Public Library Donation Center",
+    "address": "1630 17th St",
+    "coordinates": [
+      -122.40021542548048,
+      37.7651241872552
+    ],
+    "validation": {
+      "status": "open",
+      "confidence": 0.88,
+      "issues": [],
+      "citations": [
+        "https://mock-source.com/verified"
+      ]
+    }
+  },
+  {
+    "id": "place_83",
+    "name": "Soka Gakkai International of America",
+    "address": "2450 17th St",
+    "coordinates": [
+      -122.40815149274508,
+      37.76512965350767
+    ],
+    "validation": {
+      "status": "open",
+      "confidence": 0.91,
+      "issues": [],
+      "citations": [
+        "https://mock-source.com/verified"
+      ]
+    }
+  },
+  {
+    "id": "place_84",
+    "name": "Rowan",
+    "address": "338 Potrero Ave",
+    "coordinates": [
+      -122.40766233,
+      37.76514862
+    ],
+    "validation": {
+      "status": "open",
+      "confidence": 0.77,
+      "issues": [],
+      "citations": [
+        "https://mock-source.com/verified"
+      ]
+    }
+  },
+  {
+    "id": "place_85",
+    "name": "Black Rock City",
+    "address": "1900 3rd St",
+    "coordinates": [
+      -122.389608,
+      37.765148
+    ],
+    "validation": {
+      "status": "open",
+      "confidence": 0.79,
+      "issues": [],
+      "citations": [
+        "https://mock-source.com/verified"
+      ]
+    }
+  },
+  {
+    "id": "place_86",
+    "name": "Eva\u2019s Catering",
+    "address": "555 Illinois St",
+    "coordinates": [
+      -122.38792929,
+      37.76516068
+    ],
+    "validation": {
+      "status": "open",
+      "confidence": 0.81,
+      "issues": [],
+      "citations": [
+        "https://mock-source.com/verified"
+      ]
+    }
+  },
+  {
+    "id": "place_87",
+    "name": "Mission National Bank",
+    "address": "3060 16th St",
+    "coordinates": [
+      -122.42115789,
+      37.76516245
+    ],
+    "validation": {
+      "status": "open",
+      "confidence": 0.81,
+      "issues": [],
+      "citations": [
+        "https://mock-source.com/verified"
+      ]
+    }
+  },
+  {
+    "id": "place_88",
+    "name": "Public Storage",
+    "address": "300 Treat Ave",
+    "coordinates": [
+      -122.41343328,
+      37.76514852
+    ],
+    "validation": {
+      "status": "closed",
+      "confidence": 0.8,
+      "issues": [
+        "Business appears permanently closed"
+      ],
+      "citations": [
+        "https://mock-source.com/closure-notice"
+      ]
+    }
+  },
+  {
+    "id": "place_89",
+    "name": "Mission Graduates",
+    "address": "3040 16th St",
+    "coordinates": [
+      -122.42058447,
+      37.76515554
+    ],
+    "validation": {
+      "status": "open",
+      "confidence": 0.88,
+      "issues": [],
+      "citations": [
+        "https://mock-source.com/verified"
+      ]
+    }
+  },
+  {
+    "id": "place_90",
+    "name": "One Hour Cleaners",
+    "address": "2233 Market St",
+    "coordinates": [
+      -122.43163017,
+      37.76514625
+    ],
+    "validation": {
+      "status": "open",
+      "confidence": 0.82,
+      "issues": [],
+      "citations": [
+        "https://mock-source.com/verified"
+      ]
+    }
+  },
+  {
+    "id": "place_91",
+    "name": "Sweet Inspiration",
+    "address": "2239 Market St",
+    "coordinates": [
+      -122.43177331959653,
+      37.765143973400335
+    ],
+    "validation": {
+      "status": "open",
+      "confidence": 0.86,
+      "issues": [],
+      "citations": [
+        "https://mock-source.com/verified"
+      ]
+    }
+  },
+  {
+    "id": "place_92",
+    "name": "Church Street Terraces",
+    "address": "350 Church St",
+    "coordinates": [
+      -122.429102,
+      37.765173
+    ],
+    "validation": {
+      "status": "open",
+      "confidence": 0.89,
+      "issues": [],
+      "citations": [
+        "https://mock-source.com/verified"
+      ]
+    }
+  },
+  {
+    "id": "place_93",
+    "name": "BioScrip Pharmacy",
+    "address": "2262 Market St",
+    "coordinates": [
+      -122.4323988245661,
+      37.76518196673461
+    ],
+    "validation": {
+      "status": "closed",
+      "confidence": 0.77,
+      "issues": [
+        "Business appears permanently closed"
+      ],
+      "citations": [
+        "https://mock-source.com/closure-notice"
+      ]
+    }
+  },
+  {
+    "id": "place_94",
+    "name": "Monte Carlo",
+    "address": "228 Castro St.",
+    "coordinates": [
+      -122.43569584798068,
+      37.765191013125296
+    ],
+    "validation": {
+      "status": "uncertain",
+      "confidence": 0.41,
+      "issues": [
+        "Insufficient data found online"
+      ],
+      "citations": []
+    }
+  },
+  {
+    "id": "place_95",
+    "name": "Izakaya Sushi Ran",
+    "address": "2223 Market St",
+    "coordinates": [
+      -122.43139620575539,
+      37.765193336075114
+    ],
+    "validation": {
+      "status": "open",
+      "confidence": 0.84,
+      "issues": [],
+      "citations": [
+        "https://mock-source.com/verified"
+      ]
+    }
+  },
+  {
+    "id": "place_96",
+    "name": "Sxnnyinthecity",
+    "address": "380 Guerrero St",
+    "coordinates": [
+      -122.42433114,
+      37.76519378
+    ],
+    "validation": {
+      "status": "uncertain",
+      "confidence": 0.48,
+      "issues": [
+        "Insufficient data found online"
+      ],
+      "citations": []
+    }
+  },
+  {
+    "id": "place_97",
+    "name": "Lion Enterprises",
+    "address": "2525 16th St Fl Grnd",
+    "coordinates": [
+      -122.4119017108997,
+      37.76518022384617
+    ],
+    "validation": {
+      "status": "closed",
+      "confidence": 0.81,
+      "issues": [
+        "Business appears permanently closed"
+      ],
+      "citations": [
+        "https://mock-source.com/closure-notice"
+      ]
+    }
+  },
+  {
+    "id": "place_98",
+    "name": "ENNVISION Studios",
+    "address": "320 Alabama St",
+    "coordinates": [
+      -122.41269444,
+      37.76518747
+    ],
+    "validation": {
+      "status": "open",
+      "confidence": 0.82,
+      "issues": [],
+      "citations": [
+        "https://mock-source.com/verified"
+      ]
+    }
+  },
+  {
+    "id": "place_99",
+    "name": "The Lab",
+    "address": "2948 16th St",
+    "coordinates": [
+      -122.41846401,
+      37.76519091
+    ],
+    "validation": {
+      "status": "moved",
+      "confidence": 0.69,
+      "issues": [
+        "Business may have relocated"
+      ],
+      "citations": [
+        "https://mock-source.com/new-location"
+      ]
+    }
+  }
+]
