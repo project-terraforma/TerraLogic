@@ -1,3 +1,12 @@
-# Overture Maps data outputs
-*.geojson
-*.geojson.state
+# Raw Overture data (too large for GitHub)
+data/places.geojson
+data/*.parquet
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Environment
+.venv/
+env/
