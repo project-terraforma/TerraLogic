@@ -1,0 +1,696 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "title": "TerraLogic Correction Export",
+    "description": "High-confidence stale place corrections for Overture Maps",
+    "generated_at": "2026-04-19T08:47:34.692227Z",
+    "total_exported": 22,
+    "total_skipped": 78,
+    "min_confidence": 0.7,
+    "format": "Overture-compatible GeoJSON"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.450328,
+          37.7650662
+        ]
+      },
+      "properties": {
+        "place_id": "place_6",
+        "name": "Ideal Builders",
+        "address": "112 Parnassus Ave Apt 2",
+        "correction": {
+          "status": "closed",
+          "confidence": 0.76,
+          "priority": "high",
+          "issues": [
+            "Business appears permanently closed"
+          ],
+          "citations": [
+            "https://mock-source.com/closure-notice"
+          ],
+          "label": "Likely closed"
+        },
+        "validated_by": "TerraLogic \u2014 Agentic Places Validator",
+        "validated_at": "2026-04-19T08:47:34.692227Z",
+        "source_dataset": "Overture Maps Places (GeoParquet)",
+        "project": "Project Terraforma \u2014 Spring 2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.450462,
+          37.765072
+        ]
+      },
+      "properties": {
+        "place_id": "place_7",
+        "name": "Kevel Home Performance",
+        "address": "120 Parnassus Ave Unit 9",
+        "correction": {
+          "status": "closed",
+          "confidence": 0.74,
+          "priority": "high",
+          "issues": [
+            "Business appears permanently closed"
+          ],
+          "citations": [
+            "https://mock-source.com/closure-notice"
+          ],
+          "label": "Likely closed"
+        },
+        "validated_by": "TerraLogic \u2014 Agentic Places Validator",
+        "validated_at": "2026-04-19T08:47:34.692227Z",
+        "source_dataset": "Overture Maps Places (GeoParquet)",
+        "project": "Project Terraforma \u2014 Spring 2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46678603,
+          37.76525108
+        ]
+      },
+      "properties": {
+        "place_id": "place_23",
+        "name": "Cach\u00e9",
+        "address": "1235 9th Ave",
+        "correction": {
+          "status": "closed",
+          "confidence": 0.77,
+          "priority": "high",
+          "issues": [
+            "Business appears permanently closed"
+          ],
+          "citations": [
+            "https://mock-source.com/closure-notice"
+          ],
+          "label": "Likely closed"
+        },
+        "validated_by": "TerraLogic \u2014 Agentic Places Validator",
+        "validated_at": "2026-04-19T08:47:34.692227Z",
+        "source_dataset": "Overture Maps Places (GeoParquet)",
+        "project": "Project Terraforma \u2014 Spring 2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46612,
+          37.76525
+        ]
+      },
+      "properties": {
+        "place_id": "place_24",
+        "name": "KIDS' World Online Store - Kids clothes, accessories, toys",
+        "address": "1234 9th Ave",
+        "correction": {
+          "status": "moved",
+          "confidence": 0.72,
+          "priority": "high",
+          "issues": [
+            "Business may have relocated"
+          ],
+          "citations": [
+            "https://mock-source.com/new-location"
+          ],
+          "label": "Possibly relocated"
+        },
+        "validated_by": "TerraLogic \u2014 Agentic Places Validator",
+        "validated_at": "2026-04-19T08:47:34.692227Z",
+        "source_dataset": "Overture Maps Places (GeoParquet)",
+        "project": "Project Terraforma \u2014 Spring 2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46650161,
+          37.7652175
+        ]
+      },
+      "properties": {
+        "place_id": "place_26",
+        "name": "Gordo Taqueria",
+        "address": "1239 9th Ave",
+        "correction": {
+          "status": "closed",
+          "confidence": 0.92,
+          "priority": "high",
+          "issues": [
+            "Business appears permanently closed"
+          ],
+          "citations": [
+            "https://mock-source.com/closure-notice"
+          ],
+          "label": "Likely closed"
+        },
+        "validated_by": "TerraLogic \u2014 Agentic Places Validator",
+        "validated_at": "2026-04-19T08:47:34.692227Z",
+        "source_dataset": "Overture Maps Places (GeoParquet)",
+        "project": "Project Terraforma \u2014 Spring 2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.44998181,
+          37.76524216
+        ]
+      },
+      "properties": {
+        "place_id": "place_27",
+        "name": "Zazie",
+        "address": "941 Cole St",
+        "correction": {
+          "status": "closed",
+          "confidence": 0.7,
+          "priority": "high",
+          "issues": [
+            "Business appears permanently closed"
+          ],
+          "citations": [
+            "https://mock-source.com/closure-notice"
+          ],
+          "label": "Likely closed"
+        },
+        "validated_by": "TerraLogic \u2014 Agentic Places Validator",
+        "validated_at": "2026-04-19T08:47:34.692227Z",
+        "source_dataset": "Overture Maps Places (GeoParquet)",
+        "project": "Project Terraforma \u2014 Spring 2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.45007392,
+          37.76518326
+        ]
+      },
+      "properties": {
+        "place_id": "place_30",
+        "name": "Kamekyo",
+        "address": "943 Cole St",
+        "correction": {
+          "status": "moved",
+          "confidence": 0.81,
+          "priority": "high",
+          "issues": [
+            "Business may have relocated"
+          ],
+          "citations": [
+            "https://mock-source.com/new-location"
+          ],
+          "label": "Possibly relocated"
+        },
+        "validated_by": "TerraLogic \u2014 Agentic Places Validator",
+        "validated_at": "2026-04-19T08:47:34.692227Z",
+        "source_dataset": "Overture Maps Places (GeoParquet)",
+        "project": "Project Terraforma \u2014 Spring 2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.44953,
+          37.76518
+        ]
+      },
+      "properties": {
+        "place_id": "place_31",
+        "name": "UPS Access Point location",
+        "address": "956 Cole St",
+        "correction": {
+          "status": "closed",
+          "confidence": 0.71,
+          "priority": "high",
+          "issues": [
+            "Business appears permanently closed"
+          ],
+          "citations": [
+            "https://mock-source.com/closure-notice"
+          ],
+          "label": "Likely closed"
+        },
+        "validated_by": "TerraLogic \u2014 Agentic Places Validator",
+        "validated_at": "2026-04-19T08:47:34.692227Z",
+        "source_dataset": "Overture Maps Places (GeoParquet)",
+        "project": "Project Terraforma \u2014 Spring 2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4495989,
+          37.7651607
+        ]
+      },
+      "properties": {
+        "place_id": "place_35",
+        "name": "Resharp",
+        "address": "956 Cole St",
+        "correction": {
+          "status": "moved",
+          "confidence": 0.8,
+          "priority": "high",
+          "issues": [
+            "Business may have relocated"
+          ],
+          "citations": [
+            "https://mock-source.com/new-location"
+          ],
+          "label": "Possibly relocated"
+        },
+        "validated_by": "TerraLogic \u2014 Agentic Places Validator",
+        "validated_at": "2026-04-19T08:47:34.692227Z",
+        "source_dataset": "Overture Maps Places (GeoParquet)",
+        "project": "Project Terraforma \u2014 Spring 2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46631451683825,
+          37.76516324798836
+        ]
+      },
+      "properties": {
+        "place_id": "place_40",
+        "name": "Park Chow",
+        "address": "1240 9th Ave",
+        "correction": {
+          "status": "closed",
+          "confidence": 0.88,
+          "priority": "high",
+          "issues": [
+            "Business appears permanently closed"
+          ],
+          "citations": [
+            "https://mock-source.com/closure-notice"
+          ],
+          "label": "Likely closed"
+        },
+        "validated_by": "TerraLogic \u2014 Agentic Places Validator",
+        "validated_at": "2026-04-19T08:47:34.692227Z",
+        "source_dataset": "Overture Maps Places (GeoParquet)",
+        "project": "Project Terraforma \u2014 Spring 2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.466525,
+          37.76514086
+        ]
+      },
+      "properties": {
+        "place_id": "place_41",
+        "name": "Marnee Thai Restaurant",
+        "address": "1243 9th Ave",
+        "correction": {
+          "status": "closed",
+          "confidence": 0.81,
+          "priority": "high",
+          "issues": [
+            "Business appears permanently closed"
+          ],
+          "citations": [
+            "https://mock-source.com/closure-notice"
+          ],
+          "label": "Likely closed"
+        },
+        "validated_by": "TerraLogic \u2014 Agentic Places Validator",
+        "validated_at": "2026-04-19T08:47:34.692227Z",
+        "source_dataset": "Overture Maps Places (GeoParquet)",
+        "project": "Project Terraforma \u2014 Spring 2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.47707197,
+          37.7651387
+        ]
+      },
+      "properties": {
+        "place_id": "place_42",
+        "name": "Shell",
+        "address": "1200 19th Ave",
+        "correction": {
+          "status": "closed",
+          "confidence": 0.83,
+          "priority": "high",
+          "issues": [
+            "Business appears permanently closed"
+          ],
+          "citations": [
+            "https://mock-source.com/closure-notice"
+          ],
+          "label": "Likely closed"
+        },
+        "validated_by": "TerraLogic \u2014 Agentic Places Validator",
+        "validated_at": "2026-04-19T08:47:34.692227Z",
+        "source_dataset": "Overture Maps Places (GeoParquet)",
+        "project": "Project Terraforma \u2014 Spring 2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.48779,
+          37.76513
+        ]
+      },
+      "properties": {
+        "place_id": "place_44",
+        "name": "Remote Jobs",
+        "address": "2798 Lincoln Way",
+        "correction": {
+          "status": "closed",
+          "confidence": 0.83,
+          "priority": "high",
+          "issues": [
+            "Business appears permanently closed"
+          ],
+          "citations": [
+            "https://mock-source.com/closure-notice"
+          ],
+          "label": "Likely closed"
+        },
+        "validated_by": "TerraLogic \u2014 Agentic Places Validator",
+        "validated_at": "2026-04-19T08:47:34.692227Z",
+        "source_dataset": "Overture Maps Places (GeoParquet)",
+        "project": "Project Terraforma \u2014 Spring 2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4770356795699,
+          37.76512276712028
+        ]
+      },
+      "properties": {
+        "place_id": "place_45",
+        "name": "Golden Gate Auto Smog and Service",
+        "address": "1200 19th Ave",
+        "correction": {
+          "status": "closed",
+          "confidence": 0.89,
+          "priority": "high",
+          "issues": [
+            "Business appears permanently closed"
+          ],
+          "citations": [
+            "https://mock-source.com/closure-notice"
+          ],
+          "label": "Likely closed"
+        },
+        "validated_by": "TerraLogic \u2014 Agentic Places Validator",
+        "validated_at": "2026-04-19T08:47:34.692227Z",
+        "source_dataset": "Overture Maps Places (GeoParquet)",
+        "project": "Project Terraforma \u2014 Spring 2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.443574,
+          37.76511
+        ]
+      },
+      "properties": {
+        "place_id": "place_54",
+        "name": "Cedars of Marin",
+        "address": "115 Upper Ter",
+        "correction": {
+          "status": "closed",
+          "confidence": 0.85,
+          "priority": "high",
+          "issues": [
+            "Business appears permanently closed"
+          ],
+          "citations": [
+            "https://mock-source.com/closure-notice"
+          ],
+          "label": "Likely closed"
+        },
+        "validated_by": "TerraLogic \u2014 Agentic Places Validator",
+        "validated_at": "2026-04-19T08:47:34.692227Z",
+        "source_dataset": "Overture Maps Places (GeoParquet)",
+        "project": "Project Terraforma \u2014 Spring 2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42222,
+          37.76514
+        ]
+      },
+      "properties": {
+        "place_id": "place_60",
+        "name": "Sivertsen Pickle Company",
+        "address": "3108 16th St",
+        "correction": {
+          "status": "closed",
+          "confidence": 0.91,
+          "priority": "high",
+          "issues": [
+            "Business appears permanently closed"
+          ],
+          "citations": [
+            "https://mock-source.com/closure-notice"
+          ],
+          "label": "Likely closed"
+        },
+        "validated_by": "TerraLogic \u2014 Agentic Places Validator",
+        "validated_at": "2026-04-19T08:47:34.692227Z",
+        "source_dataset": "Overture Maps Places (GeoParquet)",
+        "project": "Project Terraforma \u2014 Spring 2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42009101,
+          37.7651032
+        ]
+      },
+      "properties": {
+        "place_id": "place_67",
+        "name": "CloudAmp LLC",
+        "address": "3012 16th St",
+        "correction": {
+          "status": "closed",
+          "confidence": 0.77,
+          "priority": "high",
+          "issues": [
+            "Business appears permanently closed"
+          ],
+          "citations": [
+            "https://mock-source.com/closure-notice"
+          ],
+          "label": "Likely closed"
+        },
+        "validated_by": "TerraLogic \u2014 Agentic Places Validator",
+        "validated_at": "2026-04-19T08:47:34.692227Z",
+        "source_dataset": "Overture Maps Places (GeoParquet)",
+        "project": "Project Terraforma \u2014 Spring 2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.403074,
+          37.765118
+        ]
+      },
+      "properties": {
+        "place_id": "place_77",
+        "name": "Town Realty",
+        "address": "350 Rhode Island St",
+        "correction": {
+          "status": "closed",
+          "confidence": 0.82,
+          "priority": "high",
+          "issues": [
+            "Business appears permanently closed"
+          ],
+          "citations": [
+            "https://mock-source.com/closure-notice"
+          ],
+          "label": "Likely closed"
+        },
+        "validated_by": "TerraLogic \u2014 Agentic Places Validator",
+        "validated_at": "2026-04-19T08:47:34.692227Z",
+        "source_dataset": "Overture Maps Places (GeoParquet)",
+        "project": "Project Terraforma \u2014 Spring 2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.389751,
+          37.765137
+        ]
+      },
+      "properties": {
+        "place_id": "place_81",
+        "name": "Dr Emily Frank, MD",
+        "address": "1975 4th St Fl 1",
+        "correction": {
+          "status": "closed",
+          "confidence": 0.71,
+          "priority": "high",
+          "issues": [
+            "Business appears permanently closed"
+          ],
+          "citations": [
+            "https://mock-source.com/closure-notice"
+          ],
+          "label": "Likely closed"
+        },
+        "validated_by": "TerraLogic \u2014 Agentic Places Validator",
+        "validated_at": "2026-04-19T08:47:34.692227Z",
+        "source_dataset": "Overture Maps Places (GeoParquet)",
+        "project": "Project Terraforma \u2014 Spring 2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41343328,
+          37.76514852
+        ]
+      },
+      "properties": {
+        "place_id": "place_88",
+        "name": "Public Storage",
+        "address": "300 Treat Ave",
+        "correction": {
+          "status": "closed",
+          "confidence": 0.8,
+          "priority": "high",
+          "issues": [
+            "Business appears permanently closed"
+          ],
+          "citations": [
+            "https://mock-source.com/closure-notice"
+          ],
+          "label": "Likely closed"
+        },
+        "validated_by": "TerraLogic \u2014 Agentic Places Validator",
+        "validated_at": "2026-04-19T08:47:34.692227Z",
+        "source_dataset": "Overture Maps Places (GeoParquet)",
+        "project": "Project Terraforma \u2014 Spring 2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4323988245661,
+          37.76518196673461
+        ]
+      },
+      "properties": {
+        "place_id": "place_93",
+        "name": "BioScrip Pharmacy",
+        "address": "2262 Market St",
+        "correction": {
+          "status": "closed",
+          "confidence": 0.77,
+          "priority": "high",
+          "issues": [
+            "Business appears permanently closed"
+          ],
+          "citations": [
+            "https://mock-source.com/closure-notice"
+          ],
+          "label": "Likely closed"
+        },
+        "validated_by": "TerraLogic \u2014 Agentic Places Validator",
+        "validated_at": "2026-04-19T08:47:34.692227Z",
+        "source_dataset": "Overture Maps Places (GeoParquet)",
+        "project": "Project Terraforma \u2014 Spring 2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4119017108997,
+          37.76518022384617
+        ]
+      },
+      "properties": {
+        "place_id": "place_97",
+        "name": "Lion Enterprises",
+        "address": "2525 16th St Fl Grnd",
+        "correction": {
+          "status": "closed",
+          "confidence": 0.81,
+          "priority": "high",
+          "issues": [
+            "Business appears permanently closed"
+          ],
+          "citations": [
+            "https://mock-source.com/closure-notice"
+          ],
+          "label": "Likely closed"
+        },
+        "validated_by": "TerraLogic \u2014 Agentic Places Validator",
+        "validated_at": "2026-04-19T08:47:34.692227Z",
+        "source_dataset": "Overture Maps Places (GeoParquet)",
+        "project": "Project Terraforma \u2014 Spring 2026"
+      }
+    }
+  ]
+}
